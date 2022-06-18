@@ -1,0 +1,434 @@
+* {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand {
+    width: 200px;
+
+}
+
+header {
+
+    background-color: #EFF5FF;
+
+}
+
+.height {
+    min-height: 90vh;
+    align-items: center;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+.navbar-light .navbar-brand {
+    color: #413960;
+}
+.navbar-light .navbar-brand:hover{
+    color: #21b573;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link {
+    color: #413960;
+}
+.navbar-light .navbar-nav .nav-link.active:hover,
+.navbar-light .navbar-nav .show>.nav-link:hover {
+    color: #21b573;
+}
+
+
+.btn-s {
+
+    background-color: #21B573;
+    color: #fff;
+    border-radius: 30px;
+    border: none;
+}
+
+.lin {
+    text-align: center;
+}
+
+.lin a {
+
+
+    text-decoration: none;
+    color: #FD511A;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.col-md-6 h1 {
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 70px;
+    text-align: center;
+}
+
+.col-md-6 h1 span {
+    color: #21B573;
+}
+
+.col-md-6 p {
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 36px;
+    color: #6C6B6B;
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF !important;
+    border-radius: 30px;
+    padding: 0;
+    padding: 8px 35px;
+
+}
+
+
+.button a {
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF !important;
+    border-radius: 30px;
+    padding: 0;
+    padding: 8px 35px;
+
+}
+
+.navbar-brand {
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 26px;
+    text-decoration: none;
+    white-space: nowrap;
+    font-weight: 800;
+    font-family: 'Roboto Slab', serif;
+}
+
+.nav-item {
+
+
+
+    margin-left: 15px;
+}
+
+.hero {
+    background-color: #EFF5FF;
+
+}
+
+
+
+.carousel-item img {
+
+    height: 100%;
+    width: 100%;
+    border-radius: 16px;
+}
+
+.hover:hover {
+
+    background-color: #EFF5FF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+}
+.hover_c{
+    
+margin: 28px 0px;
+}
+
+.hover_c:hover {
+    background-color: #EFF5FF;
+    box-shadow: 50px 50px 50px 50px rgba(2, 1, 1, 0.1);
+    border-radius: 16px;
+
+}
+
+
+
+.Online_Courses h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    color: #413960;
+    text-align: center;
+    margin-top: 66px;
+}
+
+.courses {
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+    padding: 17px;
+    margin: 0px 10px;
+}
+
+.courses h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    margin: 10px 0;
+    color: #413960;
+
+
+}
+
+.courses p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #413960;
+
+
+}
+
+.courses a {
+    background: #21B573;
+    border-radius: 33px;
+
+
+
+    color: #fff;
+    text-decoration: none;
+    margin: 10px 0;
+    padding: 3px 36px;
+}
+
+.courses ul {
+
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.courses ul li i {
+    margin-right: 7px;
+}
+
+.photo {
+
+
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+
+.Testimonial p {
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #000000;
+}
+
+
+.heading h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+    color: #000000;
+
+
+
+}
+
+.footer {
+
+    background-color: #21B573;
+    
+}
+
+.foooter_wraper {
+
+
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-items: center;
+    padding: 30px 0;
+}
+
+
+
+.copyright p {
+
+
+    font-weight: 400;
+    font-size: 15px;
+    color: #eff5ff;
+}
+
+
+
+.footer_icon ul {
+
+
+    list-style: none;
+    display: flex;
+}
+
+
+
+.footer_icon ul li a i {
+
+
+    margin-right: 30px;
+
+    color: #eff5ff;
+}
+
+ul.text_dox li {
+    color: #413960;
+}
+
+
+
+.foodlist h1 {
+    color: #413960;
+    text-align: center;
+
+    margin: 39px 0;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.table-dark {
+    --bs-table-bg: #21b573;
+    --bs-table-striped-bg: #2c3034;
+    --bs-table-striped-color: #fff;
+    --bs-table-active-bg: #373b3e;
+    --bs-table-active-color: #fff;
+    --bs-table-hover-bg: #323539;
+    --bs-table-hover-color: #fff;
+    color: #fff;
+    border-color: #373b3e;
+}
+
+.foodlist1 h1 {
+    color: #413960;
+    text-align: center;
+
+    margin: 39px 0;
+    font-size: 28px;
+    font-weight: 500;
+
+}
+
+.table {
+    --bs-table-bg: transparent;
+    --bs-table-accent-bg: transparent;
+    --bs-table-striped-color: #212529;
+    --bs-table-striped-bg: rgba(0, 0, 0, 0.05);
+    --bs-table-active-color: #212529;
+    --bs-table-active-bg: rgba(0, 0, 0, 0.1);
+    --bs-table-hover-color: #212529;
+    --bs-table-hover-bg: rgba(0, 0, 0, 0.075);
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #413960;
+    vertical-align: top;
+    border-color: #dee2e6;
+}
+
+.contract_img {
+
+    width: 21%;
+    margin: auto;
+    border: 1px solid gray;
+    border-radius: 101px;
+    overflow: hidden;
+}
+
+.contract_content {
+    text-align: center;
+
+}
+
+.contract_content h3 {
+
+    margin: 10px 0;
+}
+
+.contract_content p {
+
+    font-size: 17px;
+}
+
+.contract_content ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 36px 27px;
+}
+  
+   
+
+
+
+
+.contract_content ul li a {
+    text-decoration: none;
+    border: 1px solid #21b573;
+    padding: 7px 24px;
+    border-radius: 13px;
+}
+
+.contract_content ul li a i {
+    margin-right: 8px;
+}
+.contract_content ul li a:hover{
+   background-color: #21b573;
+   color: #fff;
+}

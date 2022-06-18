@@ -1,0 +1,208 @@
+
+@media (max-width: 575px) {
+    .navbar-toggler{
+        margin-right: -25px;
+    }
+    
+    .navbar-light .navbar-brand {
+        
+        font-size: 16px;
+    }
+
+    .nav-item {
+        padding: 0px;
+        margin-bottom: 8px;
+        display: inline-block;
+    }
+
+    .navbar-nav {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .lin {
+
+        margin-top: 29px;
+    }
+
+    .col-md-6 h1 {
+
+
+        font-size: 34px;
+
+    }
+
+    .hover {
+        text-align: center;
+        align-items: center;
+    }
+
+    .carousel-item img {
+        height: 100%;
+        width: 100%;
+        border-radius: 16px;
+        margin: 30px 0;
+    }
+
+    .hover_c {
+        margin-top: 17px;
+    }
+
+    .courses {
+
+        margin: -8px 31px;
+    }
+
+    .Online_Courses h1 {
+        font-size: 26px;
+    }
+
+    .contract_content ul {
+        display: block;
+    }
+
+    .contract_content ul li {
+        margin: 20px 0px;
+    }
+
+    .contract_content ul li a {
+        text-decoration: none;
+        border: 1px solid #21b573;
+        padding: 6px 16px;
+        border-radius: 13px;
+    }
+
+    .foooter_wraper {
+
+        padding: 33px 0;
+        margin-top: 37px;
+    }
+
+    .copyright p {
+        font-size: 8px;
+    }
+
+    .footer_icon ul li a i {
+
+        font-size: 9px;
+    }
+
+}
+
+
+@media (max-width: 767px) {
+    .navbar-light .navbar-brand {
+
+        font-size: 17px;
+    }
+
+    .nav-item {
+        padding: 0px;
+        margin-bottom: 8px;
+        display: inline-block;
+    }
+
+    .navbar-nav {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .lin {
+        margin: 15px 0;
+    }
+
+    .hover_c {
+        margin: 15px 0;
+    }
+
+    .Online_Courses h1 {
+
+        font-size: 20px;
+
+
+    }
+   
+
+    .contract_content ul {
+        display: block;
+    }
+
+    .contract_content ul li {
+        margin: 18px 0px;
+    }
+
+}
+
+@media (max-width: 991.98px) {
+    .height {
+        min-height: 53vh;
+        align-items: center;
+    }
+
+    .navbar-light .navbar-brand {
+
+        font-size: 17px;
+    }
+
+    .nav-item {
+        padding: 0px;
+        margin-bottom: 8px;
+        display: inline-block;
+    }
+
+    .navbar-nav {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .hover_c {
+        margin: 43px 0;
+    }
+    .vvvvv{
+        display: contents;
+    }
+    .courses {
+        
+        margin: 15px 10px;
+    }
+    .footer {
+        
+        margin-top: 228px;
+    }
+
+    .contract_content ul {
+        display: block;
+    }
+
+    .contract_content ul li {
+        margin: 18px 0px;
+    }
+}
+
+@media (max-width: 1199px) { 
+
+    .navbar-light .navbar-brand{
+        
+        font-size: 20px;
+    }
+
+
+    .hover_c {
+        margin: 23px 0;
+        margin-top: -16px;
+    }
+    .vvvvv{
+        display: contents;
+    }
+    .contract_content ul li {
+        margin:  20px 16px;
+    }
+    .contract_content ul li a {
+        padding: 12px 20px;
+        display: flex;
+        align-items: center;
+        
+    }
+    
+
+ }
